@@ -68,6 +68,7 @@
             <td><b>🛎 Issues</b></td>
             <td><b>📬 Pull requests</b></td>
             <td><b>👨‍💻 Language</b></td>
+            <td><b>👨‍💻 Most Used Language</b></td>
         </tr>
     </thead>
     <tbody>
@@ -77,7 +78,29 @@
             <td><img alt="Forks" src="https://img.shields.io/github/forks/thefcraft/localGPT?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/thefcraft/localGPT?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thefcraft/localGPT?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Language" src="https://img.shields.io/github/languages/top/thefcraft/localGPT?style=flat-square"/></td>
+            <td><img alt="Language" src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask"/>
+              <img alt="Language" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5"/>
+              <img alt="Language" src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3"/></td>
+            <td><img alt="Most Used Language" src="https://img.shields.io/github/languages/top/thefcraft/localGPT?style=flat-square"/></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/thefcraft/JARVIS"><b>JARVIS</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/thefcraft/JARVIS?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/thefcraft/JARVIS?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/thefcraft/JARVIS?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thefcraft/JARVIS?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python"/>
+                <img alt="Language" src="https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch"/></td>
+            <td><img alt="Most Used Language" src="https://img.shields.io/github/languages/top/thefcraft/JARVIS?style=flat-square"/></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/thefcraft/cppRunner"><b>cppRunner</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/thefcraft/cppRunner?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/thefcraft/cppRunner?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/thefcraft/cppRunner?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thefcraft/cppRunner?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python"/></td>
+            <td><img alt="Most Used Language" src="https://img.shields.io/github/languages/top/thefcraft/cppRunner?style=flat-square"/></td>
         </tr>
     </tbody>
 </table>
